@@ -27,5 +27,5 @@ v1.0.0.1
 - re-encoded videos are now moved to input\processed folder
 
 v1.0.0.0
-- initial release
+- initial release in vbscript
 - implemented handbrake
